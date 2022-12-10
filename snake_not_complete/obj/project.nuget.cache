@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Lfoz7FAHcGUdrhuaZU7bKEkJTdZqFZan0rLVPJfYlte+8i0X2Gr57krJPFbaPGEwmqBOd/Q62i7/BXkTuPnng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\15134\\Desktop\\snake\\snake_not_complete\\Unit05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\15134\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\15134\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

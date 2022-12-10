@@ -1,0 +1,20 @@
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/cse210-student-articulate-csharp-main/Unit05/obj/Debug/net6.0/Unit05.csproj.AssemblyReference.cache
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/cse210-student-articulate-csharp-main/Unit05/obj/Debug/net6.0/Unit05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/cse210-student-articulate-csharp-main/Unit05/obj/Debug/net6.0/Unit05.AssemblyInfoInputs.cache
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/cse210-student-articulate-csharp-main/Unit05/obj/Debug/net6.0/Unit05.AssemblyInfo.cs
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/cse210-student-articulate-csharp-main/Unit05/obj/Debug/net6.0/Unit05.csproj.CoreCompileInputs.cache
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/not_complete/obj/Debug/net6.0/Unit05.csproj.AssemblyReference.cache
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/not_complete/obj/Debug/net6.0/Unit05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/not_complete/obj/Debug/net6.0/Unit05.AssemblyInfoInputs.cache
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/not_complete/obj/Debug/net6.0/Unit05.AssemblyInfo.cs
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/not_complete/obj/Debug/net6.0/Unit05.csproj.CoreCompileInputs.cache
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/snake_not_complete/obj/Debug/net6.0/Unit05.csproj.AssemblyReference.cache
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/snake_not_complete/obj/Debug/net6.0/Unit05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/snake_not_complete/obj/Debug/net6.0/Unit05.AssemblyInfoInputs.cache
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/snake_not_complete/obj/Debug/net6.0/Unit05.AssemblyInfo.cs
+/Users/laynemoseley/Library/CloudStorage/OneDrive-BYU-Idaho/Current Semester/CSE 210/poly day 2/snake_not_complete/obj/Debug/net6.0/Unit05.csproj.CoreCompileInputs.cache
+C:\Users\15134\Desktop\snake\snake_not_complete\obj\Debug\net6.0\Unit05.csproj.AssemblyReference.cache
+C:\Users\15134\Desktop\snake\snake_not_complete\obj\Debug\net6.0\Unit05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15134\Desktop\snake\snake_not_complete\obj\Debug\net6.0\Unit05.AssemblyInfoInputs.cache
+C:\Users\15134\Desktop\snake\snake_not_complete\obj\Debug\net6.0\Unit05.AssemblyInfo.cs
+C:\Users\15134\Desktop\snake\snake_not_complete\obj\Debug\net6.0\Unit05.csproj.CoreCompileInputs.cache
